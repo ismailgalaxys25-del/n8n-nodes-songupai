@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-songupai",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "n8n nodes for SongUp AI: make AI songs with vocals in 24 languages and start workflows when a song is finished.",
     "license": "MIT",
     "homepage": "https://www.songupai.com/developers",
