@@ -16,7 +16,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ismailgalaxys25-del/n8n-nodes-songupai.git"
+        "url": "git+https://github.com/ismailgalaxys25-del/n8n-nodes-songupai.git"
     },
     "scripts": {
         "build": "n8n-node build",
